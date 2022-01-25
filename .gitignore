@@ -1,0 +1,10 @@
+# sbt
+bin/
+target/
+build/
+.bsp
+
+.idea
+
+.DS_Store
+
